@@ -1,0 +1,19 @@
+{
+  "reponame":"Repo Name",
+  "repologo":"https://example.com/icon.png",
+  "repoauthor":"Repo Author",
+  "repodesc":"This is an example Eclipse repo. It is pretty cool.",
+  "categories":[
+    {
+      "categoryname":"Category Name",
+      "games":[
+        {
+          "name":"Game Name",
+          "link":"https://example.com/game.gba",
+          "boxart":"Game Boxart",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
